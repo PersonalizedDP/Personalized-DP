@@ -19,7 +19,7 @@ The experiments for the count and sum problem are done in notebooks, for details
 
 ## Queries
 
-The queries used in this paper can be found at `./Queries`, which are designed to display the query result in the form of a data instance I as described in the paper. For more details on how to rewrite a query and how to load the database, one may refer to R2T:https://dl.acm.org/doi/10.1145/3514221.3517844.
+The queries used in this paper can be found at `./Queries`, which are designed to display the query result in the form of a data instance I as described in the paper. For more details on how to rewrite a query and how to prepare the database, one may refer to R2T:https://dl.acm.org/doi/10.1145/3514221.3517844.
 
 ## Figures and Results
 `figures.ipynb` draws the figures used in the paper.
